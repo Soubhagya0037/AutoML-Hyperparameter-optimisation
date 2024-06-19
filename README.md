@@ -1,7 +1,3 @@
-Certainly! Here's a template for a README file summarizing what we've discussed and done in this chat:
-
----
-
 # Machine Learning Hyperparameter Optimization
 
 This repository contains code and discussions related to hyperparameter optimization (HPO) for machine learning models. The focus is on implementing and comparing different HPO techniques using Python and popular libraries like scikit-learn, Optuna, and HyperOpt.
